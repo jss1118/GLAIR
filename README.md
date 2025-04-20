@@ -29,11 +29,11 @@ We are currently in a very early development stage, and are not available to ope
 
 ## Update roadmap
 
-**April 2025:** Initial latent space model developd
+**April 2025:** Initial latent space CT1 model developed. ✅
 
-**Late April 2025:** Metric statistics/numerical data support added
+**Late April: ** Multi-modal latent space model developed. 🔜
 
-**May 2025:** Beta latent space model completed.
+**May 2025:** Beta latent space model completed. ❌
 
 
 ## Contributing
