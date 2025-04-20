@@ -31,7 +31,7 @@ We are currently in a very early development stage, and are not available to ope
 
 **April 2025:** Initial latent space CT1 model developed. ✅
 
-**Late April:** Multi-modal latent space model developed. 🔜
+**Late April 2025 :** Multi-modal latent space model developed. 🔜
 
 **May 2025:** Beta latent space model completed. ❌
 
