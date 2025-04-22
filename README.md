@@ -1,6 +1,6 @@
-![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
+![glair](https://github.com/user-attachments/assets/4ee4f4cb-8ac9-44fe-9068-66ca70b83fe2)
 
-<sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
+
 
 # GLAIR | Predicting glioblastoma progression through temporal latent space variational autoencoders
 
@@ -26,6 +26,8 @@ surgical treatment in patients. (The model will soon also include survival rate/
 
 We are currently in a very early development stage, and are not available to open source our data yet. You can request access by contacting dearjoshuastanley@gmail.com
 
+![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
+<sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
 
 ## Update roadmap
 
