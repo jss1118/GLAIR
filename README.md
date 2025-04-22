@@ -43,11 +43,11 @@ We are currently in a very early development stage, and are not available to ope
 
 ## Update cycle
 
-**Alpha** These versions are not available to the public. They are early developer versions.
+**Alpha:** These versions are not available to the public. They are early developer versions.
 
-**Beta** These are early versions to updates that are available to the public for testing via request.
+**Beta:** These are early versions to updates that are available to the public for testing via request.
 
-**Release** These are official updates that are available in the mainstream version.
+**Release:** These are official updates that are available in the mainstream version.
 
 
 ## Contributing
