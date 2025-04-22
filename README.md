@@ -22,18 +22,30 @@ Many clinical trials have shown tumor growth remaining relatively unchanged in p
 variational autoencoder model, that works in the deep latent space to generate predictive simulations of tumor growth from CT1 segmented MRI scans, in response to either chemotherapy or 
 surgical treatment in patients. (The model will soon also include survival rate/predictions, in order to help the patient decide whether it even makes sense for them to go through with chemotherapy.) 
 
+
+## How does it work?
+
+Creating simulations or predictions of future iterations of a vector usually requires a deep neural network. We initially tool the approach of developing a spatiotemporal transformer model, however this was prone to overfitting and was lackluster in feature extraction. 
+
+We switched our approach to a generative variational autoencoder, which is better at recognizing important features. Variational autoencoders work by attempting to reconstruct an input image from a lower dimensional version of the input. We used this technique, but adjusted the loss function to reward the model when predicting the future progression rather than the input.
+It takes a variety of input sequences from MRI slices, and then predicts a future vector from the input. 
+
+![nn strcuture](https://github.com/user-attachments/assets/4b40de9c-ec3e-43a8-8de7-09354f7ffecd)
+
+
 ## Software/Model access
 
 We are currently in a very early development stage, and are not available to open source our data yet. You can request access by contacting dearjoshuastanley@gmail.com
 
 ![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
+
 <sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
 
 ## Update roadmap
 
 **April 2025:** Initial latent space CT1 model developed. ✅
 
-**Late April 2025 :** Multi-modal latent space model developed. 🔜
+**Late April 2025 :** Multi-modal latent space model developed. ✅
 
 **May 2025:** Beta latent space model completed. ❌
 
