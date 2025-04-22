@@ -41,13 +41,13 @@ We are currently in a very early development stage, and are not available to ope
 
 <sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
 
-## Update roadmap
+## Update cycle
 
-**April 2025:** Initial latent space CT1 model developed. ✅
+**Alpha** These versions are not available to the public. They are early developer versions.
 
-**Late April 2025 :** Multi-modal latent space model developed. ✅
+**Beta** These are early versions to updates that are available to the public for testing via request.
 
-**May 2025:** Beta latent space model completed. ❌
+**Release** These are official updates that are available in the mainstream version.
 
 
 ## Contributing
