@@ -2,7 +2,7 @@
 
 <sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
 
-# Generative Variational Autoencoder as a Latent-Space Glioblastoma predictive progression simulator.
+# GLAIR | Predicting glioblastoma progression through temporal latent space variational autoencoders
 
 <b>Get
 involved: • [Issues](https://github.com/jss1118/Generative-VAE-Glioblastoma-Simulator/issues)</b>
