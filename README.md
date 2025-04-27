@@ -22,7 +22,7 @@ Many clinical trials have shown tumor growth remaining relatively unchanged in p
 variational autoencoder model, that works in the deep latent space to generate predictive simulations of tumor growth from CT1 segmented MRI scans, in response to either chemotherapy or 
 surgical treatment in patients. (The model will soon also include survival rate/predictions, in order to help the patient decide whether it even makes sense for them to go through with chemotherapy.) 
 
-
+![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
 ## How does it work?
 
 Creating simulations or predictions of future iterations of a vector usually requires a deep neural network. We initially tool the approach of developing a spatiotemporal transformer model, however this was prone to overfitting and was lackluster in feature extraction. 
@@ -33,19 +33,20 @@ It takes a variety of input sequences from MRI slices, and then predicts a futur
 ![nn strcuture](https://github.com/user-attachments/assets/4b40de9c-ec3e-43a8-8de7-09354f7ffecd)
 
 
-## Software/Model access
+## Current status
 
-We are currently in a very early development stage, and are not available to open source our data yet. You can request access by contacting dearjoshuastanley@gmail.com
+We are nearing completion of the first beta release of a **macOS** based application. Below is a screenshot of what the current UI looks like. 
 
-![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
+<img width="598" alt="Screenshot 2025-04-26 at 10 21 35 PM" src="https://github.com/user-attachments/assets/b756f4cc-81f8-47c4-add8-87ea1b1595fe" />
+
 
 <sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
 
 ## Update cycle
 
-**Alpha:** These versions are not available to the public. They are early developer versions.
+**Alpha:** These are versions available upon request. They may include incomplete, or placeholder features, with various bugs.
 
-**Beta:** These are early versions to updates that are available to the public for testing via request.
+**Beta:** These are early versions to updates that are available to the public, with minor bugs or newly implemented features.
 
 **Release:** These are official updates that are available in the mainstream version.
 
