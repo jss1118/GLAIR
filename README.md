@@ -40,7 +40,7 @@ We are nearing completion of the first beta release of a **macOS** based applica
 <img width="598" alt="Screenshot 2025-04-26 at 10 21 35 PM" src="https://github.com/user-attachments/assets/b756f4cc-81f8-47c4-add8-87ea1b1595fe" />
 
 
-<sup><i>The figure above represents 2 MRI timepoint slices, followed by the autoencoder prediction along with the ground truth</i></sup>
+<sup><i>The figure above represents the user interface development as of April 27, 2025.</i></sup>
 
 ## Update cycle
 
