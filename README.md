@@ -4,6 +4,19 @@
 
 # GLAIR | Predicting glioblastoma progression through temporal latent space variational autoencoders
 
+
+[![Follow on X](https://img.shields.io/twitter/follow/glair_ai?style=social)](https://x.com/glair_ai) 
+[![PyPI](https://img.shields.io/pypi/v/glair)](https://pypi.org/project/glair/)
+[![Downloads](https://img.shields.io/pypi/dm/glair)](https://pypi.org/project/glair/)
+[![GitHub Stars](https://img.shields.io/github/stars/jss1118/GLAIR?style=social)](https://github.com/jss1118/GLAIR/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/jss1118/GLAIR?style=social)](https://github.com/jss1118/GLAIR/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/jss1118/GLAIR)](https://github.com/jss1118/GLAIR/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/jss1118/GLAIR)](https://github.com/your-username/jss1118/GLAIR)
+
+
+
+
+
 <b>Get
 involved: • [Issues](https://github.com/jss1118/Generative-VAE-Glioblastoma-Simulator/issues)</b>
 
