@@ -28,7 +28,7 @@ surgical treatment in patients. (The model will soon also include survival rate/
 
 There are two current ways for hosting GLAIR, one being a frontend application for macOS, and the other as a pip package for python.
 
-#PIP installation
+# PIP installation
 
 ```
 pip install glair
@@ -47,7 +47,7 @@ Example usage:
 from glair.modes import VAE
 ```
 
-#macOS installation
+# macOS installation
 
 The macOS installation is currently in alpha stages and is available upon request from dearjoshuastanley@gmail.com
 
