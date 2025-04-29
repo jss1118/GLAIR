@@ -44,7 +44,7 @@ There are many different submodules, including the **processing** and **model** 
 Example usage:
 
 ```
-from glair.modes import VAE
+from glair.model import VAE
 ```
 
 # macOS installation
