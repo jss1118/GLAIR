@@ -23,6 +23,34 @@ variational autoencoder model, that works in the deep latent space to generate p
 surgical treatment in patients. (The model will soon also include survival rate/predictions, in order to help the patient decide whether it even makes sense for them to go through with chemotherapy.) 
 
 ![eval_patient_3](https://github.com/user-attachments/assets/67302390-1af3-4048-8c8a-8322eafb322f)
+
+## Hosting
+
+There are two current ways for hosting GLAIR, one being a frontend application for macOS, and the other as a pip package for python.
+
+#PIP installation
+
+```
+pip install glair
+```
+and import with
+
+```
+import glair
+```
+
+There are many different submodules, including the **processing** and **model** classes.
+
+Example usage:
+
+```
+from glair.modes import VAE
+```
+
+#macOS installation
+
+The macOS installation is currently in alpha stages and is available upon request from dearjoshuastanley@gmail.com
+
 ## How does it work?
 
 Creating simulations or predictions of future iterations of a vector usually requires a deep neural network. We initially tool the approach of developing a spatiotemporal transformer model, however this was prone to overfitting and was lackluster in feature extraction. 
