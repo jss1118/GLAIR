@@ -39,7 +39,9 @@ surgical treatment in patients. (The model will soon also include survival rate/
 
 ## Hosting
 
-There are two current ways for hosting GLAIR, one being a frontend application for macOS, and the other as a pip package for python.
+GLAIR is available for download via our website for windows and mac.
+
+
 
 # PIP installation
 
