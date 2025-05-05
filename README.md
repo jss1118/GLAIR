@@ -60,9 +60,9 @@ Example usage:
 from glair.model import VAE
 ```
 
-# macOS installation
+# Universal installation
 
-The macOS installation is currently in alpha stages and is available upon request from dearjoshuastanley@gmail.com
+The universal installation is currently in alpha stages and is available upon request from dearjoshuastanley@gmail.com
 
 ## How does it work?
 
